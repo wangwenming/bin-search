@@ -1,8 +1,7 @@
 {
   "name": "bin-search",
   "version": "0.0.1",
-  "description": "Yet another binary-search",
-  "license": "CC0-1.0",
+  "description": "Yet another binary-search", "license": "CC0-1.0",
   "author": {
     "name": "Koala Wang",
     "email": "wangwenming1985@gmail.com"
@@ -12,7 +11,7 @@
     "url": "git://github.com/wangwenming/bin-search.git"
   },
   "devDependencies": {
-    "mocha": "2.10.x",
+    "mocha": "2.1.x",
     "chai": "1.10.x"
   }
 }
